@@ -11,9 +11,9 @@ body {
 	margin: 0;
 	box-sizing: border-box;
 }
-.b ul li{
+.b ol {
 
-	list-style-type: square !important;
+	display: block;
 	padding: 10px;
 	margin: 0;
 }
